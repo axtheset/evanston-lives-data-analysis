@@ -24,7 +24,7 @@
 
         $('.canvas').hide();
 
-        var resourceId = "19426f05-1814-4447-b63b-23c33b3706a7";
+        var resourceId = "8d88d266-e6e2-4db5-9c5d-28cae92bad2e";
         //var baseURI = "http://www.civicdata.com/api/action/datastore_search_sql?sql=";
         var baseURI = "http://civicdataprod1.cloudapp.net/api/action/datastore_search_sql?sql=";
         
