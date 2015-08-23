@@ -1,6 +1,6 @@
 ## Evanston, IL - LIVES Data Analysis
 
-Exploring average healthscores in Evanston
+Exploring the impact of publishing health scores to Yelp.
 
 ## Data Source
 
@@ -12,3 +12,4 @@ Evanston, IL LIVES Restaurant Inspections on [CivicData.com](http://www.civicdat
 * [jQuery](http://jquery.com/): Still the awesomest JavaScript framework.
 * [D3.js](http://d3js.org/): JavaScript library for manipulating documents based on data.
 * [C3.js](http://c3js.org/): Chart library for D3.
+* [Moment.js](http://momentjs.com/): Parse, validate, manipulate, and display dates in JavaScript.
